@@ -1,9 +1,9 @@
-
 # Retail Sales Analysis (SQL + Tableau Visuals)
+View [`Tableau Visualization`](https://public.tableau.com/app/profile/carissa.mason/viz/RetailAnalyticsSQLTableau_17476785683750/Dashboard) here
 
 This project uses SQL to analyze 2023 retail sales. Using advanced SQL techniques, including CTEs, aggregations, and window functions, the data was cleaned and transformed to power a Tableau dashboard. The dashboard serves as a visual layer to communicate the business insights extracted through SQL.
 
-> **Note**: Due to incompleteness, January 2024 data was excluded.
+> **Note**: Due to incomplete data, January 2024 data was excluded.
 
 ---
 
@@ -105,9 +105,9 @@ ORDER BY total_sales DESC;
 - **Product Category Revenue Totals**
 - **Sales by Gender with Avg Order Value**
 
-*Full script available in [`retail_sales_analysis.sql`](./retail_sales_analysis.sql)*
+*Full SQL file available in [`retail_sales_analysis.sql`](retail_sales_analysis.sql)*
 
-## Tableau Visual Layer
+## Tableau Visual Layer 
 
 Tableau was used as a presentation layer to build:
 
